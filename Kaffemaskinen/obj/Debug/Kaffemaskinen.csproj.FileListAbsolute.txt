@@ -1,0 +1,6 @@
+C:\Users\alex303a\source\repos\Kaffemaskinen\Kaffemaskinen\bin\Debug\Kaffemaskinen.exe.config
+C:\Users\alex303a\source\repos\Kaffemaskinen\Kaffemaskinen\bin\Debug\Kaffemaskinen.exe
+C:\Users\alex303a\source\repos\Kaffemaskinen\Kaffemaskinen\bin\Debug\Kaffemaskinen.pdb
+C:\Users\alex303a\source\repos\Kaffemaskinen\Kaffemaskinen\obj\Debug\Kaffemaskinen.csprojAssemblyReference.cache
+C:\Users\alex303a\source\repos\Kaffemaskinen\Kaffemaskinen\obj\Debug\Kaffemaskinen.exe
+C:\Users\alex303a\source\repos\Kaffemaskinen\Kaffemaskinen\obj\Debug\Kaffemaskinen.pdb
